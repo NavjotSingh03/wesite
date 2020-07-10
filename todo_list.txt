@@ -1,2 +1,4 @@
 Afficher les pays voisins
 Afficher l'erreur 404 try catch
+Créer une pagination pour les recherches
+Faire des recherches via d'autres critères (continents etc.)
